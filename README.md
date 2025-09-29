@@ -2,7 +2,9 @@
 
 A complete web application featuring a Python FastAPI backend that serves a custom-finetuned Hugging Face language model, paired with a sleek, real-time chat interface built with React and Vite.
 
-[Image of a modern dark-mode chat application interface]
+<img width="1918" height="963" alt="image" src="https://github.com/user-attachments/assets/8e87f2aa-d6c1-4a2b-9dc4-1d5a98c7a5d8" />
+<img width="1911" height="968" alt="image" src="https://github.com/user-attachments/assets/2e4349ee-0b75-45b7-80d6-392e3e65ed80" />
+
 
 ---
 
